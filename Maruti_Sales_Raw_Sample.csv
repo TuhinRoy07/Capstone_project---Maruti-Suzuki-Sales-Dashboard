@@ -1,0 +1,493 @@
+Sale_Date,Model,Segment,Fuel_Type,Transmission,State,Dealer_City,Channel,Units_Sold,Ex_Showroom_Price,Prev_Year_Units
+21-07-2026,S-Presso,Mini,petrol,Automatic,Gujarat,Gujarat City 2,Domestic,40,476868,32
+18-07-2026,Dzire,Compact,Petrol,AMT,Haryana,Haryana City 3,Domestic,199,743707,165
+02-07-2026,Victoris,UV,Hybrid,Automatic,Uttar Pradesh,Uttar Pradesh City 4,Domestic,146,1357419,128
+28-07-2026,S-Presso,Mini,cng,AMT,West Bengal,West Bengal City 3,Domestic,99,543132,62
+30-07-2026,Grand Vitara,UV,Petrol,Automatic,Rajasthan,Rajasthan City 1,Domestic,215,1163659,187
+15-07-2026,Wagon R,Compact,CNG,Manual,Tamil Nadu,Tamil Nadu City 5,OEM,72,775825,56
+26-07-2026, Grand Vitara  ,UV,Hybrid,Automatic,Uttar Pradesh,Uttar Pradesh City 4,Domestic,157,1620785,119
+14-07-2026,Wagon R,Compact,CNG,Manual,Punjab,Punjab City 3,OEM,200,626832,150
+17-07-2026,Alto,Mini,cng,AMT,Maharashtra,Maharashtra City 1,Domestic,217,500612,140
+16-07-2026,Brezza,UV,Petrol,AMT,Madhya Pradesh,Madhya Pradesh City 5,Domestic,59,1050922,49
+08-07-2026,Fronx,UV,Petrol,Manual,Uttar Pradesh,Uttar Pradesh City 1,Domestic,22,812938,19
+16-07-2026,Eeco,Van,CNG,Manual,Uttar Pradesh,Uttar Pradesh City 1,Export,115,566438,82
+07-07-2026,Swift,Compact,CNG,Manual,Delhi,Delhi City 2,Domestic,123,715485,110
+28-07-2026,swift,Compact,Petrol,AMT,West Bengal,West Bengal City 4,Domestic,107,886569,61
+22-07-2026,Victoris,UV,Hybrid,Manual,Tamil Nadu,Tamil Nadu City 3,Domestic,19,1657314,16
+06-07-2026,s-presso,Mini,Petrol,Automatic,Bihar,Bihar City 2,Domestic,35,599336,22
+09-07-2026,Dzire,Compact,petrol,Automatic,Kerala,Kerala City 3,Domestic,85,698033,47
+12-Jul-26,Celerio,Compact,Petrol,AMT,Bihar,Bihar City 5,Export,82,720347,77
+24-Jul-26,Brezza,UV,Petrol,AMT,Gujarat,Gujarat City 5,Domestic,188,1199536,118
+11-07-2026,eeco,Van,Petrol,Automatic,Gujarat,Gujarat City 2,Export,118,592309,98
+05-07-2026,Alto,Mini,CNG,AMT,Andhra Pradesh,Andhra Pradesh City 1,Domestic,58,485412,47
+26-07-2026,Wagon R,Compact,cng,Manual,Karnataka,Karnataka City 3,Domestic,210,755612,188
+10-07-2026,Eeco,Van,Petrol,Manual,Maharashtra,Maharashtra City 2,Domestic,89,556517,79
+19-07-2026,Celerio,Compact,PETROL,Manual,Haryana,Haryana City 4,Domestic,191,642228,138
+31-07-2026,Victoris,UV,Petrol,AMT,Delhi,Delhi City 1,Export,89,1703425,60
+31-07-2026,Dzire,Compact,Petrol,Automatic,Haryana,Haryana City 3,Domestic,145,660212,97
+26-07-2026,Victoris,UV,Petrol,Automatic,Uttar Pradesh,Uttar Pradesh City 3,OEM,174,1713686,138
+28-07-2026,Eeco,Van,petrol,AMT,Delhi,Delhi City 5,Domestic,188,611272,132
+31-Jul-26,Victoris,UV,Hybrid,Manual,Madhya Pradesh,Madhya Pradesh City 2,Domestic,121,1189816,105
+30-07-2026,Brezza,UV,CNG,Manual,Punjab,Punjab City 4,Domestic,71,1099249,62
+18-07-2026,S-Presso,Mini,petrol,Manual,,Tamil Nadu City 4,Export,44,506086,25
+29-07-2026,Eeco,Van,CNG,AMT,Maharashtra,Maharashtra City 3,Domestic,197,571116,175
+22-07-2026,Grand Vitara,UV,hybrid,Automatic,Karnataka,Karnataka City 4,Domestic,164,1690069,91
+15-Jul-26,Baleno,Compact,CNG,AMT,Gujarat,Gujarat City 4,Domestic,218,722942,160
+07-07-2026,Alto,Mini,Petrol,Manual,Karnataka,Karnataka City 4,Export,34,477138,25
+01-Jul-26,Celerio,Compact,CNG,AMT,Punjab,Punjab City 2,Domestic,156,724427,100
+12-Jul-26,S-Presso,Mini,CNG,Manual,Bihar,Bihar City 4,Domestic,32,563645,29
+25-07-2026,Ertiga,UV,CNG,AMT,Bihar,Bihar City 5,Domestic,87,998710,76
+16-07-2026,Swift,Compact,CNG,AMT,Rajasthan,Rajasthan City 3,OEM,184,880714,121
+15-07-2026,Eeco,Van,Petrol,Manual,Gujarat,Gujarat City 2,Domestic,182,551890,122
+08-07-2026,S-Presso,Mini,Petrol,AMT,Uttar Pradesh,Uttar Pradesh City 5,Export,52,500211,33
+10-07-2026, Alto  ,Mini,Petrol,AMT,Maharashtra,Maharashtra City 1,OEM,79,453103,63
+04-07-2026,S-Presso,Mini,CNG,AMT,Uttar Pradesh,Uttar Pradesh City 5,Export,180,464053,109
+13-07-2026,Ertiga,UV,CNG,AMT,Bihar,Bihar City 5,Domestic,83,1168125,66
+06-Jul-26,Alto,Mini,cng,AMT,Punjab,Punjab City 5,Domestic,79,428556,50
+07-07-2026,Dzire,Compact,Petrol,Automatic,Tamil Nadu,Tamil Nadu City 2,Domestic,216,734572,124
+09-07-2026,Brezza,UV,CNG,AMT,Uttar Pradesh,Uttar Pradesh City 5,Domestic,115,1177978,91
+02-07-2026,Eeco,Van,Petrol,AMT,Madhya Pradesh,Madhya Pradesh City 4,Domestic,51,596720,36
+22-07-2026,Dzire,Compact,petrol,AMT,Uttar Pradesh,Uttar Pradesh City 3,Domestic,87,720776,81
+16-Jul-26, Grand Vitara  ,UV,Hybrid,Manual,Tamil Nadu,Tamil Nadu City 3,OEM,,1432020,27
+08-07-2026,S-Presso,Mini,CNG,Manual,Kerala,Kerala City 2,Domestic,188,526509,141
+05-07-2026,S-Presso,Mini,CNG,AMT,Rajasthan,Rajasthan City 5,Domestic,215,450672,142
+13-07-2026,ertiga,UV,CNG,Manual,Punjab,Punjab City 2,OEM,103,992453,91
+16-07-2026,alto,Mini,Petrol,Automatic,Haryana,Haryana City 3,Domestic,117,446138,88
+13-07-2026, Grand Vitara  ,UV,petrol,AMT,Bihar,Bihar City 5,Domestic,86,1787246,72
+04-07-2026,Eeco,Van,Petrol,AMT,Karnataka,Karnataka City 3,Domestic,16,562516,13
+13-07-2026, Fronx  ,UV,Petrol,AMT,Andhra Pradesh,Andhra Pradesh City 5,Domestic,64,1263550,51
+19-07-2026,Celerio,Compact,CNG,Automatic,Gujarat,Gujarat City 4,Domestic,55,660845,49
+19-07-2026,Grand Vitara,UV,Petrol,Automatic,Punjab,Punjab City 4,Domestic,203,1967665,130
+21-07-2026,Grand Vitara,UV,Petrol,AMT,Telangana,Telangana City 4,Domestic,153,1512584,128
+09-07-2026,Wagon R,Compact,CNG,AMT,Telangana,Telangana City 3,Export,91,610191,67
+26-Jul-26,Dzire,Compact,PETROL,AMT,Madhya Pradesh,Madhya Pradesh City 1,Domestic,99,797448,77
+03-07-2026,Grand Vitara,UV,Hybrid,Automatic,Gujarat,Gujarat City 4,Domestic,40,1177549,37
+18-07-2026,dzire,Compact,Petrol,AMT,Kerala,Kerala City 1,Domestic,162,873970,149
+21-07-2026,Baleno,Compact,petrol,AMT,Gujarat,Gujarat City 2,Domestic,215,918402,126
+25-07-2026,brezza,UV,petrol,Automatic,Tamil Nadu,Tamil Nadu City 2,Domestic,203,994721,175
+01-07-2026,Baleno,Compact,Petrol,Automatic,Rajasthan,Rajasthan City 1,Domestic,72,707472,43
+02-Jul-26,Victoris,UV,Hybrid,AMT,Kerala,Kerala City 1,Domestic,127,1938456,90
+19-07-2026,Brezza,UV,CNG,AMT,Haryana,Haryana City 5,Domestic,121,1370108,95
+14-07-2026,Baleno,Compact,CNG,AMT,Delhi,Delhi City 1,Domestic,114,843852,93
+05-Jul-26,Brezza,UV,Petrol,Automatic,Madhya Pradesh,Madhya Pradesh City 5,Domestic,176,968168,125
+05-07-2026,Grand Vitara,UV,Hybrid,Manual,Bihar,Bihar City 1,Domestic,147,1515415,87
+30-07-2026,grand vitara,UV,Hybrid,Manual,Karnataka,Karnataka City 3,Export,200,1453993,183
+07-07-2026,Dzire,Compact,CNG,AMT,Rajasthan,Rajasthan City 2,Domestic,84,830070,72
+20-Jul-26,Ertiga,UV,CNG,AMT,Tamil Nadu,Tamil Nadu City 5,Domestic,,1095398,55
+07-07-2026,Eeco,Van,Petrol,AMT,Gujarat,Gujarat City 3,Domestic,6,585193,5
+14-07-2026,Alto,Mini,CNG,Manual,Bihar,Bihar City 3,OEM,114,526017,95
+14-Jul-26,S-Presso,Mini,Petrol,AMT,Haryana,Haryana City 4,OEM,25,553747,22
+24-Jul-26,grand vitara,UV,Petrol,Manual,Uttar Pradesh,Uttar Pradesh City 2,Domestic,55,1311926,43
+21-07-2026,Grand Vitara,UV,Hybrid,Automatic,Rajasthan,Rajasthan City 2,Domestic,22,1621699,15
+21-07-2026,S-Presso,Mini,CNG,AMT,Haryana,Haryana City 5,Export,15,567894,13
+23-07-2026,S-Presso,Mini,Petrol,Manual,Tamil Nadu,Tamil Nadu City 4,Domestic,139,587035,110
+04-07-2026,Brezza,UV,CNG,AMT,Gujarat,Gujarat City 5,Domestic,90,925461,70
+21-07-2026,eeco,Van,CNG,Manual,Kerala,Kerala City 5,Domestic,170,607878,122
+10-07-2026,Eeco,Van,Petrol,Automatic,Telangana,Telangana City 5,Export,139,524947,113
+14-07-2026,Baleno,Compact,Petrol,AMT,Haryana,Haryana City 3,Export,205,915367,131
+10-07-2026,Eeco,Van,CNG,Automatic,Madhya Pradesh,Madhya Pradesh City 4,Domestic,214,546174,186
+03-07-2026,Eeco,Van,Petrol,AMT,West Bengal,West Bengal City 5,Domestic,217,577340,127
+08-07-2026,Alto,Mini,CNG,,Bihar,Bihar City 3,Domestic,40,430040,26
+18-07-2026,Victoris,UV,hybrid,Manual,Telangana,Telangana City 3,Domestic,82,1177767,46
+23-Jul-26,Wagon R,Compact,CNG,AMT,Maharashtra,Maharashtra City 5,Domestic,66,729596,47
+28-07-2026,Ertiga,UV,Petrol,Automatic,Delhi,Delhi City 3,Domestic,196,878515,135
+27-Jul-26,Grand Vitara,UV,PETROL,Automatic,West Bengal,West Bengal City 4,Export,51,1980916,30
+27-07-2026,Brezza,UV,CNG,AMT,Maharashtra,Maharashtra City 2,Domestic,96,890126,86
+23-07-2026,Ertiga,UV,cng,Automatic,Gujarat,Gujarat City 1,Export,113,911380,81
+12-07-2026,ertiga,UV,Petrol,Automatic,Bihar,Bihar City 3,OEM,116,1013946,93
+26-07-2026,ertiga,UV,Petrol,Manual,Uttar Pradesh,Uttar Pradesh City 2,Export,98,1059871,68
+11-07-2026,Grand Vitara,UV,Hybrid,Manual,Uttar Pradesh,Uttar Pradesh City 1,Export,52,1653285,39
+05-Jul-26,s-presso,Mini,CNG,Manual,Andhra Pradesh,Andhra Pradesh City 4,Domestic,212,533778,173
+17-07-2026,Swift,Compact,Petrol,Manual,Telangana,Telangana City 2,Domestic,207,779504,116
+16-07-2026,Brezza,UV,cng,AMT,Bihar,Bihar City 5,Domestic,37,1172427,29
+17-07-2026,Alto,Mini,Petrol,Automatic,Karnataka,Karnataka City 3,Domestic,46,504583,42
+10-07-2026,Fronx,UV,Petrol,Automatic,Kerala,Kerala City 2,OEM,153,941684,94
+19-07-2026,Celerio,Compact,Petrol,Automatic,Delhi,Delhi City 5,Export,12,690557,10
+15-07-2026,Dzire,Compact,CNG,AMT,Tamil Nadu,Tamil Nadu City 3,OEM,41,823883,36
+09-07-2026,Ertiga,UV,Petrol,Manual,Uttar Pradesh,Uttar Pradesh City 1,Domestic,103,1192635,73
+16-07-2026,Alto,Mini,Petrol,AMT,Madhya Pradesh,Madhya Pradesh City 4,Domestic,60,512509,34
+24-07-2026,baleno,Compact,CNG,AMT,Maharashtra,Maharashtra City 4,Domestic,150,782055,104
+13-07-2026,baleno,Compact,CNG,Automatic,Rajasthan,Rajasthan City 2,Domestic,159,946926,112
+20-07-2026,Baleno,Compact,PETROL,AMT,Haryana,Haryana City 3,OEM,91,945979,80
+29-07-2026,Victoris,UV,Petrol,Automatic,West Bengal,West Bengal City 3,Export,205,1863864,160
+02-07-2026,Fronx,UV,Petrol,Manual,Maharashtra,Maharashtra City 4,Domestic,112,938787,80
+11-07-2026,Grand Vitara,UV,Hybrid,Automatic,Delhi,Delhi City 3,Domestic,122,2086431,93
+18-07-2026,Celerio,Compact,Petrol,AMT,Telangana,Telangana City 3,Export,58,688189,39
+12-Jul-26,Eeco,Van,Petrol,AMT,Maharashtra,Maharashtra City 3,Export,25,565398,22
+19-07-2026,Swift,Compact,Petrol,Manual,Kerala,Kerala City 5,Domestic,168,711036,95
+29-07-2026,Ertiga,UV,CNG,,Tamil Nadu,Tamil Nadu City 3,Domestic,78,1208636,44
+30-07-2026,Alto,Mini,CNG,AMT,Karnataka,Karnataka City 3,Domestic,7,498221,5
+09-Jul-26,Swift,Compact,Petrol,AMT,Karnataka,Karnataka City 4,Export,70,838376,43
+11-07-2026,S-Presso,Mini,CNG,Automatic,Uttar Pradesh,Uttar Pradesh City 2,Domestic,,534830,117
+23-Jul-26,Swift,Compact,Petrol,Automatic,Uttar Pradesh,Uttar Pradesh City 4,Domestic,45,756277,37
+15-07-2026,Victoris,UV,Hybrid,AMT,Punjab,Punjab City 5,Domestic,198,1613628,172
+04-Jul-26,Alto,Mini,petrol,Automatic,Madhya Pradesh,Madhya Pradesh City 2,Domestic,88,556404,63
+02-07-2026,Brezza,UV,cng,Automatic,Telangana,Telangana City 3,Export,10,1255182,6
+30-Jul-26,Ertiga,UV,Petrol,AMT,Delhi,Delhi City 2,Domestic,201,1206343,189
+28-Jul-26,Brezza,UV,Petrol,Automatic,Bihar,Bihar City 3,Domestic,50,1252151,38
+08-Jul-26,Swift,Compact,CNG,AMT,Karnataka,Karnataka City 3,Domestic,190,850668,113
+23-07-2026,Alto,Mini,Petrol,Automatic,Maharashtra,Maharashtra City 4,Domestic,64,476955,54
+08-07-2026,Celerio,Compact,Petrol,Automatic,Madhya Pradesh,Madhya Pradesh City 2,Domestic,81,632129,46
+26-07-2026,Brezza,UV,CNG,Automatic,Delhi,Delhi City 4,Domestic,81,1234747,50
+18-07-2026,Brezza,UV,Petrol,AMT,Tamil Nadu,Tamil Nadu City 3,Domestic,89,922911,81
+25-Jul-26,Fronx,UV,Petrol,AMT,Tamil Nadu,Tamil Nadu City 3,Domestic,8,1002096,7
+25-07-2026,Celerio,Compact,CNG,AMT,Madhya Pradesh,Madhya Pradesh City 3,Domestic,71,654278,53
+28-07-2026,Swift,Compact,Petrol,Manual,Gujarat,Gujarat City 5,OEM,153,838746,109
+16-07-2026,Victoris,UV,Hybrid,,Karnataka,Karnataka City 3,Domestic,40,1805303,30
+25-07-2026,Alto,Mini,CNG,Manual,Bihar,Bihar City 2,Domestic,186,459591,102
+14-Jul-26,Alto,Mini,Petrol,Automatic,Punjab,Punjab City 3,OEM,78,424493,58
+27-07-2026,Baleno,Compact,cng,AMT,Uttar Pradesh,Uttar Pradesh City 3,Domestic,122,807510,115
+16-07-2026,Alto,Mini,Petrol,Automatic,Karnataka,Karnataka City 1,Domestic,116,506840,90
+22-Jul-26,Celerio,Compact,Petrol,Manual,Andhra Pradesh,Andhra Pradesh City 3,Domestic,58,713887,35
+13-07-2026,Eeco,Van,Petrol,Automatic,Punjab,Punjab City 1,OEM,195,565332,111
+26-Jul-26,Ertiga,UV,CNG,Manual,Rajasthan,Rajasthan City 5,Domestic,115,967380,94
+05-07-2026,Victoris,UV,Hybrid,AMT,Rajasthan,Rajasthan City 1,Domestic,6,1373241,4
+20-07-2026,Fronx,UV,Hybrid,AMT,Maharashtra,Maharashtra City 3,Domestic,104,868813,87
+03-07-2026,Wagon R,Compact,CNG,AMT,Delhi,Delhi City 3,Domestic,205,,142
+13-07-2026,Eeco,Van,CNG,AMT,Rajasthan,Rajasthan City 4,Export,157,537842,105
+19-07-2026,Eeco,Van,Petrol,AMT,Delhi,Delhi City 3,Domestic,98,534927,90
+10-Jul-26,Victoris,UV,Petrol,AMT,Kerala,Kerala City 4,Domestic,167,1367543,108
+28-07-2026,Victoris,UV,Hybrid,Automatic,Maharashtra,Maharashtra City 3,Export,212,1612986,166
+31-07-2026,Eeco,Van,CNG,AMT,Uttar Pradesh,Uttar Pradesh City 1,Domestic,71,549098,53
+01-07-2026,Ertiga,UV,Petrol,AMT,Delhi,Delhi City 1,Domestic,217,944278,149
+26-Jul-26,Victoris,UV,Petrol,Manual,Bihar,Bihar City 3,Export,32,1760032,27
+21-07-2026,Grand Vitara,UV,Hybrid,AMT,Maharashtra,Maharashtra City 5,Domestic,120,1750970,86
+11-07-2026,Swift,Compact,CNG,Manual,Gujarat,Gujarat City 4,OEM,168,732157,132
+19-07-2026,S-Presso,Mini,petrol,AMT,Uttar Pradesh,Uttar Pradesh City 2,Domestic,34,497984,23
+06-07-2026,Brezza,UV,Petrol,AMT,Gujarat,Gujarat City 2,Domestic,85,1312908,67
+23-07-2026,Ertiga,UV,CNG,Manual,Uttar Pradesh,Uttar Pradesh City 5,Domestic,208,985620,138
+09-07-2026,Eeco,Van,CNG,Automatic,Bihar,Bihar City 1,Export,117,591611,74
+15-07-2026,S-Presso,Mini,Petrol,Manual,Telangana,Telangana City 5,Export,94,562241,57
+10-07-2026,Celerio,Compact,CNG,Automatic,Andhra Pradesh,Andhra Pradesh City 1,Domestic,197,667897,180
+16-07-2026,Wagon R,Compact,CNG,Automatic,Delhi,Delhi City 4,Domestic,24,746101,20
+28-07-2026,Victoris,UV,Petrol,Automatic,West Bengal,West Bengal City 3,Domestic,208,1610384,147
+29-07-2026,grand vitara,UV,Petrol,Manual,Uttar Pradesh,Uttar Pradesh City 4,Domestic,36,2029312,22
+09-Jul-26,S-Presso,Mini,CNG,AMT,Uttar Pradesh,Uttar Pradesh City 3,Export,171,,97
+08-07-2026,Brezza,UV,cng,Manual,Maharashtra,Maharashtra City 3,Domestic,113,978595,83
+05-07-2026,Grand Vitara,UV,Petrol,Manual,Madhya Pradesh,Madhya Pradesh City 5,Domestic,161,1811595,99
+25-07-2026,S-Presso,Mini,CNG,AMT,Delhi,Delhi City 3,Domestic,68,522605,54
+17-07-2026,Fronx,UV,petrol,,Delhi,Delhi City 3,Export,18,1030967,13
+27-07-2026,fronx,UV,Hybrid,AMT,Madhya Pradesh,Madhya Pradesh City 2,Domestic,202,856537,112
+14-07-2026,victoris,UV,Hybrid,Manual,Kerala,Kerala City 5,OEM,162,1210097,107
+21-07-2026,S-Presso,Mini,CNG,Automatic,Delhi,Delhi City 2,Domestic,67,472600,61
+06-07-2026,Ertiga,UV,CNG,Automatic,Madhya Pradesh,Madhya Pradesh City 3,Domestic,100,936548,84
+21-07-2026,S-Presso,Mini,CNG,AMT,Madhya Pradesh,Madhya Pradesh City 3,Domestic,132,598605,81
+08-07-2026,Alto,Mini,CNG,AMT,Delhi,Delhi City 2,Domestic,14,529935,8
+26-07-2026,Brezza,UV,Petrol,AMT,Uttar Pradesh,Uttar Pradesh City 4,Domestic,203,1165790,138
+25-07-2026,Eeco,Van,Petrol,Automatic,Andhra Pradesh,Andhra Pradesh City 5,Domestic,43,,39
+24-07-2026,Celerio,Compact,Petrol,Manual,Madhya Pradesh,Madhya Pradesh City 2,Domestic,130,575701,122
+03-07-2026,Fronx,UV,Petrol,Automatic,Karnataka,Karnataka City 4,Domestic,156,845308,112
+03-07-2026,Swift,Compact,Petrol,Automatic,Uttar Pradesh,Uttar Pradesh City 2,Domestic,47,767851,34
+10-07-2026, Victoris  ,UV,Petrol,Manual,Bihar,Bihar City 3,Domestic,28,1795702,18
+18-07-2026,Swift,Compact,Petrol,AMT,Uttar Pradesh,Uttar Pradesh City 2,Domestic,8,666166,7
+01-07-2026,s-presso,Mini,Petrol,Automatic,West Bengal,West Bengal City 2,Domestic,217,536913,129
+30-Jul-26,Wagon R,Compact,CNG,AMT,West Bengal,West Bengal City 2,Domestic,162,742313,129
+17-07-2026,Swift,Compact,Petrol,AMT,Telangana,Telangana City 3,Domestic,144,854848,107
+16-Jul-26,brezza,UV,CNG,Automatic,Tamil Nadu,Tamil Nadu City 2,Domestic,68,1092867,44
+06-07-2026,Swift,Compact,CNG,Automatic,Punjab,Punjab City 3,OEM,12,834405,9
+03-07-2026,Alto,Mini,Petrol,Automatic,Tamil Nadu,Tamil Nadu City 1,OEM,127,420179,86
+30-07-2026,Wagon R,Compact,Petrol,Automatic,Bihar,Bihar City 3,Domestic,100,764690,92
+11-07-2026,Wagon R,Compact,CNG,Manual,Kerala,Kerala City 5,Domestic,101,660431,85
+20-07-2026,Baleno,Compact,Petrol,Automatic,Haryana,Haryana City 1,Domestic,41,853627,34
+01-07-2026,Celerio,Compact,Petrol,Manual,Punjab,Punjab City 1,Domestic,70,588320,58
+16-07-2026,eeco,Van,Petrol,Manual,West Bengal,West Bengal City 1,Domestic,80,522631,54
+20-07-2026,Ertiga,UV,Petrol,AMT,Kerala,Kerala City 2,OEM,116,952367,66
+02-Jul-26,Dzire,Compact,cng,Manual,Maharashtra,Maharashtra City 3,Domestic,114,705942,76
+26-07-2026,Dzire,Compact,CNG,AMT,Andhra Pradesh,Andhra Pradesh City 3,Domestic,169,945278,119
+25-07-2026,victoris,UV,Petrol,Manual,Kerala,Kerala City 3,OEM,110,1843202,86
+10-07-2026,S-Presso,Mini,CNG,Automatic,Maharashtra,Maharashtra City 5,OEM,137,599811,112
+03-07-2026,Grand Vitara,UV,Hybrid,Manual,Bihar,Bihar City 2,OEM,,1465281,64
+19-07-2026,Brezza,UV,CNG,Manual,Delhi,Delhi City 2,Domestic,150,945071,137
+16-07-2026, Alto  ,Mini,Petrol,AMT,Delhi,Delhi City 2,OEM,160,525308,90
+27-07-2026,Ertiga,UV,Petrol,Manual,Karnataka,Karnataka City 3,Export,118,1038227,77
+02-07-2026,Brezza,UV,Petrol,,Gujarat,Gujarat City 5,Domestic,39,1389753,35
+12-07-2026,Ertiga,UV,CNG,Automatic,Andhra Pradesh,Andhra Pradesh City 1,Export,12,996845,8
+03-Jul-26,Celerio,Compact,Petrol,AMT,Maharashtra,Maharashtra City 2,OEM,204,616182,182
+05-07-2026,Grand Vitara,UV,Petrol,Automatic,Telangana,Telangana City 1,Domestic,69,1767894,60
+17-07-2026,Fronx,UV,hybrid,Automatic,Uttar Pradesh,Uttar Pradesh City 1,OEM,174,1172408,134
+23-07-2026,Grand Vitara,UV,HYBRID,Manual,Karnataka,Karnataka City 5,Domestic,19,1974554,16
+24-Jul-26,Alto,Mini,Petrol,AMT,Punjab,Punjab City 2,Export,141,544711,128
+24-Jul-26,Eeco,Van,Petrol,Automatic,Andhra Pradesh,Andhra Pradesh City 3,Export,27,549131,18
+21-07-2026,fronx,UV,petrol,AMT,Andhra Pradesh,Andhra Pradesh City 2,OEM,35,1180209,26
+11-07-2026,Victoris,UV,Petrol,Manual,West Bengal,West Bengal City 3,Export,50,1378638,40
+14-Jul-26, Grand Vitara  ,UV,Hybrid,AMT,Delhi,Delhi City 4,Domestic,6,1169557,4
+23-07-2026,Baleno,Compact,CNG,Manual,Uttar Pradesh,Uttar Pradesh City 4,OEM,155,840492,95
+29-07-2026, Ertiga  ,UV,CNG,Manual,Karnataka,Karnataka City 4,Domestic,63,987608,52
+25-07-2026,Brezza,UV,Petrol,Automatic,Maharashtra,Maharashtra City 1,Export,219,860700,124
+22-07-2026,S-Presso,Mini,cng,Automatic,Haryana,Haryana City 2,Domestic,217,477502,163
+23-07-2026,dzire,Compact,cng,Manual,Maharashtra,Maharashtra City 5,Domestic,58,912006,39
+24-07-2026,S-Presso,Mini,CNG,Automatic,Tamil Nadu,Tamil Nadu City 4,Domestic,72,571707,41
+01-07-2026,Wagon R,Compact,Petrol,AMT,Rajasthan,Rajasthan City 4,OEM,73,772169,42
+26-07-2026,Wagon R,Compact,Petrol,Manual,Punjab,Punjab City 1,Domestic,31,689059,28
+29-07-2026,wagon r,Compact,CNG,AMT,Uttar Pradesh,Uttar Pradesh City 4,Domestic,16,596603,10
+17-07-2026,Brezza,UV,petrol,AMT,Kerala,Kerala City 2,Domestic,93,1243572,56
+25-07-2026,Ertiga,UV,CNG,Manual,Rajasthan,Rajasthan City 3,Domestic,134,986762,103
+16-07-2026,Victoris,UV,Petrol,Manual,Delhi,Delhi City 4,Domestic,147,1625771,80
+27-07-2026,Alto,Mini,Petrol,AMT,Rajasthan,Rajasthan City 5,OEM,158,544029,132
+17-07-2026,Baleno,Compact,Petrol,Manual,Andhra Pradesh,Andhra Pradesh City 2,Domestic,40,894544,23
+02-Jul-26,grand vitara,UV,Petrol,AMT,West Bengal,West Bengal City 5,OEM,39,1653059,21
+24-07-2026,Wagon R,Compact,Petrol,AMT,Kerala,Kerala City 5,OEM,87,712149,78
+14-07-2026,Fronx,UV,Hybrid,Automatic,Madhya Pradesh,Madhya Pradesh City 3,Export,193,1007900,121
+21-07-2026,Baleno,Compact,Petrol,,Madhya Pradesh,Madhya Pradesh City 4,OEM,151,898878,123
+25-07-2026,Eeco,Van,Petrol,AMT,Kerala,Kerala City 3,Domestic,219,528130,180
+21-07-2026,Brezza,UV,CNG,Manual,Madhya Pradesh,Madhya Pradesh City 3,Export,175,889261,161
+28-Jul-26,Ertiga,UV,Petrol,Automatic,Punjab,Punjab City 3,OEM,144,1186348,90
+14-07-2026,celerio,Compact,CNG,Manual,Karnataka,Karnataka City 5,Domestic,6,646655,4
+18-07-2026,Baleno,Compact,petrol,Automatic,Rajasthan,Rajasthan City 5,Domestic,52,715744,44
+25-Jul-26,Fronx,UV,Hybrid,Automatic,Bihar,Bihar City 1,Domestic,176,1142814,128
+18-07-2026,victoris,UV,Hybrid,Manual,Andhra Pradesh,Andhra Pradesh City 5,Domestic,136,1891814,102
+01-07-2026,Grand Vitara,UV,Petrol,Manual,Kerala,Kerala City 2,Export,113,2006258,66
+23-07-2026,Baleno,Compact,Petrol,Manual,Uttar Pradesh,Uttar Pradesh City 1,Domestic,208,812072,160
+01-07-2026,Grand Vitara,UV,Petrol,Automatic,Haryana,Haryana City 1,Export,23,1505075,21
+06-Jul-26,Brezza,UV,petrol,Manual,Punjab,Punjab City 4,OEM,80,991074,53
+18-07-2026,S-Presso,Mini,CNG,Manual,Punjab,Punjab City 3,Domestic,110,584362,66
+18-07-2026,Ertiga,UV,Petrol,AMT,Kerala,Kerala City 1,Domestic,30,973503,25
+11-07-2026,Fronx,UV,Hybrid,Automatic,Haryana,Haryana City 2,OEM,150,1162199,130
+11-07-2026,Ertiga,UV,CNG,AMT,Rajasthan,Rajasthan City 3,Domestic,146,927059,90
+29-07-2026,Alto,Mini,Petrol,Automatic,Haryana,Haryana City 4,OEM,59,429609,45
+05-07-2026,Ertiga,UV,petrol,AMT,Rajasthan,Rajasthan City 5,Domestic,174,995242,154
+24-07-2026,Ertiga,UV,CNG,Manual,Tamil Nadu,Tamil Nadu City 4,Domestic,21,1008599,14
+04-07-2026,Victoris,UV,Hybrid,Automatic,Gujarat,Gujarat City 5,OEM,150,1232294,105
+28-07-2026,baleno,Compact,CNG,AMT,Andhra Pradesh,Andhra Pradesh City 5,Domestic,133,752859,96
+26-07-2026, Baleno  ,Compact,Petrol,AMT,Kerala,Kerala City 4,Domestic,58,764539,46
+09-07-2026,Wagon R,Compact,CNG,Automatic,Haryana,Haryana City 1,Export,191,753472,167
+25-07-2026,Wagon R,Compact,CNG,Manual,Punjab,Punjab City 3,Domestic,157,734821,90
+16-07-2026,Fronx,UV,Petrol,Automatic,Madhya Pradesh,Madhya Pradesh City 1,Domestic,128,916659,116
+08-07-2026,Eeco,Van,CNG,AMT,Rajasthan,Rajasthan City 5,Export,199,629732,164
+01-Jul-26,Victoris,UV,petrol,Automatic,Madhya Pradesh,Madhya Pradesh City 1,OEM,6,1443247,4
+20-07-2026,Celerio,Compact,CNG,Manual,Delhi,Delhi City 5,OEM,128,606850,89
+08-07-2026,Ertiga,UV,Petrol,,Tamil Nadu,Tamil Nadu City 5,Domestic,206,1047438,179
+14-07-2026,S-Presso,Mini,Petrol,AMT,Tamil Nadu,Tamil Nadu City 3,Domestic,160,459897,134
+07-07-2026,Grand Vitara,UV,Hybrid,Manual,Maharashtra,Maharashtra City 5,OEM,137,1862377,88
+13-07-2026,Fronx,UV,Petrol,Automatic,Maharashtra,Maharashtra City 1,Domestic,145,1078313,121
+09-07-2026,Wagon R,Compact,CNG,Automatic,Uttar Pradesh,Uttar Pradesh City 5,Domestic,133,657136,91
+25-07-2026,Swift,Compact,CNG,AMT,Kerala,Kerala City 4,OEM,12,776345,7
+23-07-2026,Celerio,Compact,Petrol,AMT,Uttar Pradesh,Uttar Pradesh City 4,Export,196,649651,113
+07-07-2026,Swift,Compact,Petrol,AMT,Tamil Nadu,Tamil Nadu City 2,Domestic,218,715456,192
+02-07-2026,Ertiga,UV,CNG,Automatic,Rajasthan,Rajasthan City 4,OEM,75,1127323,46
+13-Jul-26,Grand Vitara,UV,Petrol,AMT,Uttar Pradesh,Uttar Pradesh City 5,Domestic,85,1852689,47
+20-07-2026,Baleno,Compact,cng,Manual,West Bengal,West Bengal City 4,Domestic,112,875197,77
+14-07-2026,Dzire,Compact,Petrol,Manual,Telangana,Telangana City 2,Domestic,211,665107,130
+02-Jul-26,Dzire,Compact,Petrol,Automatic,Karnataka,Karnataka City 1,Domestic,213,793321,157
+12-Jul-26,Grand Vitara,UV,Petrol,Automatic,Haryana,Haryana City 5,Domestic,204,1428433,141
+21-07-2026,Eeco,Van,CNG,AMT,Kerala,Kerala City 5,OEM,108,631267,98
+28-Jul-26,Baleno,Compact,CNG,AMT,Karnataka,Karnataka City 2,Domestic,37,803012,30
+13-07-2026,Brezza,UV,petrol,Manual,Gujarat,Gujarat City 5,Domestic,26,1248783,17
+28-Jul-26,Ertiga,UV,CNG,Automatic,Andhra Pradesh,Andhra Pradesh City 3,OEM,118,940839,110
+30-07-2026, Baleno  ,Compact,CNG,Automatic,Tamil Nadu,Tamil Nadu City 1,Domestic,,871775,59
+31-07-2026,Eeco,Van,CNG,AMT,Maharashtra,Maharashtra City 4,Domestic,157,550305,136
+09-Jul-26,S-Presso,Mini,CNG,Automatic,Tamil Nadu,Tamil Nadu City 5,OEM,211,521267,140
+23-07-2026,Fronx,UV,HYBRID,Manual,Rajasthan,Rajasthan City 1,Domestic,17,,9
+26-07-2026,eeco,Van,cng,AMT,West Bengal,West Bengal City 1,Domestic,25,630565,21
+04-Jul-26,Eeco,Van,Petrol,AMT,Telangana,Telangana City 4,Domestic,193,524392,121
+02-07-2026,Victoris,UV,PETROL,AMT,West Bengal,West Bengal City 3,Domestic,97,1104617,86
+02-07-2026,Fronx,UV,Hybrid,Automatic,Haryana,Haryana City 2,Domestic,202,873826,131
+26-07-2026, S-Presso  ,Mini,Petrol,AMT,Tamil Nadu,Tamil Nadu City 3,OEM,206,541047,179
+18-07-2026,Victoris,UV,Hybrid,Manual,Haryana,Haryana City 2,OEM,94,1389403,79
+15-07-2026,Alto,Mini,CNG,Automatic,Karnataka,Karnataka City 1,OEM,98,482596,66
+21-07-2026,Baleno,Compact,petrol,Manual,Madhya Pradesh,Madhya Pradesh City 1,Domestic,218,748039,135
+09-07-2026,Alto,Mini,CNG,Manual,Haryana,Haryana City 1,Domestic,58,548819,53
+20-Jul-26,Celerio,Compact,Petrol,Automatic,Uttar Pradesh,Uttar Pradesh City 3,Domestic,60,696179,35
+24-07-2026,S-Presso,Mini,CNG,Automatic,West Bengal,West Bengal City 4,Domestic,47,497289,36
+12-07-2026,Dzire,Compact,CNG,Automatic,Rajasthan,Rajasthan City 5,Domestic,149,946065,94
+17-Jul-26,Wagon R,Compact,CNG,Manual,Gujarat,Gujarat City 2,Domestic,85,585688,72
+09-07-2026,Baleno,Compact,Petrol,Manual,Gujarat,Gujarat City 3,Domestic,151,889609,117
+20-07-2026,Grand Vitara,UV,Hybrid,Manual,Punjab,Punjab City 5,Domestic,25,1948017,14
+01-07-2026,Grand Vitara,UV,hybrid,Manual,Gujarat,Gujarat City 5,Domestic,86,1696157,66
+08-07-2026,Dzire,Compact,CNG,AMT,Karnataka,Karnataka City 2,Domestic,26,909484,20
+13-07-2026,Grand Vitara,UV,petrol,Automatic,Haryana,Haryana City 5,Domestic,67,1205124,43
+01-07-2026,Eeco,Van,CNG,Manual,Rajasthan,Rajasthan City 5,Domestic,164,539112,119
+28-07-2026,Celerio,Compact,Petrol,AMT,Punjab,Punjab City 1,Domestic,120,683519,67
+22-07-2026,Alto,Mini,cng,,Andhra Pradesh,Andhra Pradesh City 5,Domestic,70,464648,40
+22-07-2026,Baleno,Compact,Petrol,Manual,Gujarat,Gujarat City 4,Domestic,102,946621,95
+02-07-2026,Swift,Compact,CNG,AMT,West Bengal,West Bengal City 4,Export,45,654816,30
+27-07-2026,Alto,Mini,CNG,Manual,Karnataka,Karnataka City 3,Domestic,173,455982,101
+20-07-2026,Baleno,Compact,CNG,Automatic,Karnataka,Karnataka City 2,Export,40,786068,35
+06-07-2026,Baleno,Compact,Petrol,Automatic,Madhya Pradesh,Madhya Pradesh City 1,Domestic,86,756295,72
+25-07-2026,Swift,Compact,Petrol,Manual,Karnataka,Karnataka City 1,OEM,162,719956,128
+23-07-2026,grand vitara,UV,hybrid,Manual,Bihar,Bihar City 4,Domestic,126,1274192,77
+03-07-2026,Wagon R,Compact,CNG,Automatic,West Bengal,West Bengal City 3,Domestic,68,692081,48
+23-07-2026,Eeco,Van,Petrol,Automatic,Uttar Pradesh,Uttar Pradesh City 4,Domestic,216,635050,122
+13-07-2026,Celerio,Compact,cng,AMT,Karnataka,Karnataka City 4,Domestic,161,574299,132
+13-07-2026,Dzire,Compact,CNG,AMT,Maharashtra,Maharashtra City 2,Domestic,156,765870,140
+12-07-2026,S-Presso,Mini,CNG,Automatic,Telangana,Telangana City 5,OEM,45,549268,34
+14-07-2026, Celerio  ,Compact,CNG,Automatic,Telangana,Telangana City 4,Domestic,165,607368,98
+16-07-2026,swift,Compact,Petrol,Automatic,Kerala,Kerala City 4,Domestic,109,765834,63
+12-07-2026,Alto,Mini,Petrol,Manual,Kerala,Kerala City 5,OEM,81,506798,74
+31-07-2026,Ertiga,UV,CNG,Manual,Uttar Pradesh,Uttar Pradesh City 3,Domestic,99,1068673,86
+07-07-2026,Fronx,UV,Petrol,Manual,Haryana,Haryana City 5,Domestic,128,1081137,92
+26-07-2026,Wagon R,Compact,Petrol,Automatic,Gujarat,Gujarat City 2,Domestic,35,586287,25
+21-07-2026,Swift,Compact,CNG,AMT,Telangana,Telangana City 1,Domestic,81,782825,62
+30-07-2026,Grand Vitara,UV,Hybrid,AMT,Telangana,Telangana City 1,Export,39,1634884,23
+24-07-2026,grand vitara,UV,Hybrid,Automatic,Madhya Pradesh,Madhya Pradesh City 1,Domestic,152,1848791,103
+06-07-2026,Fronx,UV,Petrol,AMT,Punjab,Punjab City 3,Export,13,1064685,9
+07-07-2026,S-Presso,Mini,CNG,Automatic,Maharashtra,Maharashtra City 4,OEM,44,499862,30
+05-Jul-26,Swift,Compact,Petrol,AMT,Delhi,Delhi City 5,Domestic,6,731521,5
+25-07-2026,Celerio,Compact,Petrol,AMT,Tamil Nadu,Tamil Nadu City 2,Domestic,75,699532,50
+18-07-2026,Baleno,Compact,CNG,Manual,Punjab,Punjab City 3,OEM,67,769797,38
+13-Jul-26,Wagon R,Compact,CNG,Automatic,Rajasthan,Rajasthan City 3,Domestic,214,631943,178
+04-07-2026,Ertiga,UV,CNG,Automatic,Kerala,Kerala City 4,Domestic,64,987332,38
+03-07-2026,Ertiga,UV,Petrol,AMT,West Bengal,West Bengal City 4,Domestic,77,1052774,60
+19-07-2026,Dzire,Compact,Petrol,Automatic,Tamil Nadu,Tamil Nadu City 5,Domestic,128,861230,73
+03-07-2026,Victoris,UV,hybrid,Manual,Haryana,Haryana City 5,Domestic,88,1632051,51
+22-Jul-26,Alto,Mini,Petrol,Manual,Bihar,Bihar City 2,OEM,198,420048,168
+30-07-2026,Grand Vitara,UV,Hybrid,AMT,Punjab,Punjab City 3,Domestic,154,1138513,122
+12-Jul-26,S-Presso,Mini,CNG,Manual,Tamil Nadu,Tamil Nadu City 4,Export,156,553355,124
+27-07-2026,Dzire,Compact,Petrol,AMT,Bihar,Bihar City 2,Domestic,7,697615,5
+26-07-2026,Victoris,UV,Hybrid,Automatic,Karnataka,Karnataka City 4,OEM,113,1628866,99
+18-07-2026,Fronx,UV,Hybrid,Manual,Maharashtra,Maharashtra City 5,Domestic,185,1166482,110
+17-07-2026,Fronx,UV,PETROL,Manual,West Bengal,West Bengal City 1,Export,167,1345389,145
+12-07-2026,Eeco,Van,CNG,AMT,Karnataka,Karnataka City 1,Export,157,618228,105
+16-07-2026,s-presso,Mini,Petrol,Automatic,Uttar Pradesh,Uttar Pradesh City 3,Domestic,38,523655,25
+23-07-2026,Swift,Compact,CNG,Manual,Telangana,Telangana City 5,Domestic,92,672125,86
+07-07-2026,Fronx,UV,Hybrid,Manual,Kerala,Kerala City 3,Domestic,18,955741,13
+28-Jul-26,Dzire,Compact,Petrol,AMT,Andhra Pradesh,Andhra Pradesh City 4,Domestic,178,825511,166
+09-Jul-26,Celerio,Compact,Petrol,AMT,,Kerala City 5,Domestic,,737023,104
+03-07-2026, Alto  ,Mini,CNG,Manual,Madhya Pradesh,Madhya Pradesh City 1,Export,119,512147,75
+04-Jul-26,Victoris,UV,Petrol,Manual,Bihar,Bihar City 5,Domestic,101,1738279,86
+30-07-2026,Celerio,Compact,cng,Automatic,Andhra Pradesh,Andhra Pradesh City 3,Domestic,46,579397,30
+20-Jul-26,Dzire,Compact,PETROL,Automatic,,West Bengal City 1,Domestic,143,886101,91
+16-07-2026,Wagon R,Compact,Petrol,Manual,Kerala,Kerala City 4,Domestic,43,763515,29
+18-07-2026,Swift,Compact,petrol,AMT,Punjab,Punjab City 4,Domestic,150,790326,138
+27-07-2026,Ertiga,UV,CNG,Automatic,Tamil Nadu,Tamil Nadu City 2,OEM,15,1071412,12
+07-07-2026, Alto  ,Mini,Petrol,AMT,Delhi,Delhi City 1,OEM,169,500669,126
+17-07-2026,Ertiga,UV,petrol,Automatic,Haryana,Haryana City 2,Domestic,14,944234,10
+26-07-2026,S-Presso,Mini,CNG,Automatic,Karnataka,Karnataka City 5,Domestic,214,477874,127
+22-07-2026,Fronx,UV,Petrol,AMT,Bihar,Bihar City 2,Domestic,156,961873,106
+26-07-2026,Grand Vitara,UV,Hybrid,Manual,Maharashtra,Maharashtra City 4,Domestic,6,1137574,3
+09-Jul-26,Brezza,UV,CNG,AMT,Tamil Nadu,Tamil Nadu City 2,OEM,182,,143
+17-07-2026,S-Presso,Mini,CNG,Automatic,Madhya Pradesh,Madhya Pradesh City 2,Domestic,202,504554,133
+12-Jul-26,celerio,Compact,PETROL,AMT,Gujarat,Gujarat City 3,OEM,211,678789,119
+19-07-2026,Baleno,Compact,CNG,Manual,Punjab,Punjab City 3,Domestic,204,737741,138
+07-07-2026,Fronx,UV,Hybrid,Manual,Delhi,Delhi City 3,Domestic,122,983586,97
+11-07-2026,Swift,Compact,CNG,Automatic,Karnataka,Karnataka City 5,Domestic,,794901,135
+28-07-2026,Swift,Compact,petrol,AMT,Delhi,Delhi City 5,Domestic,156,898054,95
+26-Jul-26,Eeco,Van,Petrol,AMT,West Bengal,West Bengal City 2,Domestic,147,,81
+15-07-2026,Fronx,UV,petrol,AMT,West Bengal,West Bengal City 2,Export,108,973929,93
+25-Jul-26,Celerio,Compact,Petrol,Automatic,Uttar Pradesh,Uttar Pradesh City 5,Domestic,193,574368,145
+18-07-2026,Victoris,UV,Petrol,Manual,Rajasthan,Rajasthan City 2,OEM,34,1730566,25
+02-07-2026,S-Presso,Mini,CNG,AMT,West Bengal,West Bengal City 4,OEM,139,482167,102
+03-07-2026,Swift,Compact,CNG,Manual,Uttar Pradesh,Uttar Pradesh City 4,Domestic,78,670171,46
+30-07-2026,wagon r,Compact,CNG,AMT,Delhi,Delhi City 4,Export,170,585631,113
+16-07-2026,Fronx,UV,Hybrid,AMT,Gujarat,Gujarat City 5,Domestic,207,1101383,128
+06-07-2026,Victoris,UV,Hybrid,Manual,Karnataka,Karnataka City 2,Domestic,65,1172596,36
+15-07-2026,Brezza,UV,Petrol,Automatic,Gujarat,Gujarat City 1,Domestic,108,1363676,92
+31-07-2026,Eeco,Van,Petrol,Automatic,Punjab,Punjab City 4,Domestic,181,534721,152
+21-Jul-26,Swift,Compact,Petrol,AMT,Tamil Nadu,Tamil Nadu City 1,Domestic,142,872678,103
+13-07-2026,Wagon R,Compact,CNG,AMT,Delhi,Delhi City 3,Domestic,77,670418,53
+29-07-2026,Dzire,Compact,CNG,Manual,Bihar,Bihar City 5,OEM,,735308,17
+09-07-2026, Dzire  ,Compact,Petrol,Automatic,West Bengal,West Bengal City 5,Domestic,56,757520,49
+01-07-2026,Wagon R,Compact,CNG,AMT,Kerala,Kerala City 4,Domestic,172,754565,156
+12-07-2026,Fronx,UV,hybrid,Automatic,Delhi,Delhi City 3,Export,180,1279164,169
+12-07-2026,Wagon R,Compact,Petrol,AMT,Rajasthan,Rajasthan City 4,Export,96,592770,63
+11-07-2026,grand vitara,UV,Hybrid,AMT,Kerala,Kerala City 3,Domestic,141,1738222,97
+08-07-2026,Swift,Compact,petrol,AMT,West Bengal,West Bengal City 1,Domestic,214,684401,196
+10-07-2026,Alto,Mini,Petrol,,Karnataka,Karnataka City 2,Export,63,500590,37
+02-07-2026,Eeco,Van,Petrol,AMT,Uttar Pradesh,Uttar Pradesh City 3,Domestic,21,559537,17
+31-07-2026,Celerio,Compact,cng,AMT,Karnataka,Karnataka City 5,Export,161,623392,121
+24-07-2026,S-Presso,Mini,Petrol,Automatic,Bihar,Bihar City 4,Domestic,183,498529,132
+04-07-2026,Brezza,UV,Petrol,AMT,Telangana,Telangana City 3,Export,78,882581,45
+28-Jul-26,Dzire,Compact,Petrol,Manual,Andhra Pradesh,Andhra Pradesh City 4,Export,99,754003,54
+04-07-2026,Victoris,UV,Petrol,Manual,Rajasthan,Rajasthan City 2,Domestic,56,1673861,49
+21-07-2026,Dzire,Compact,CNG,AMT,Kerala,Kerala City 5,Domestic,129,928128,85
+22-Jul-26,Alto,Mini,Petrol,AMT,Haryana,Haryana City 3,Domestic,82,445253,70
+28-07-2026, Brezza  ,UV,Petrol,Manual,Delhi,Delhi City 1,Domestic,120,1169839,106
+23-07-2026,Dzire,Compact,cng,Manual,Haryana,Haryana City 4,Export,146,942796,113
+10-Jul-26,Baleno,Compact,Petrol,Manual,Haryana,Haryana City 1,Domestic,219,872104,151
+08-07-2026, Swift  ,Compact,Petrol,Automatic,Gujarat,Gujarat City 5,Domestic,181,667170,162
+23-07-2026,Ertiga,UV,Petrol,AMT,Delhi,Delhi City 5,Domestic,87,1170175,51
+14-07-2026,Swift,Compact,CNG,Automatic,Bihar,Bihar City 1,OEM,59,725328,38
+03-07-2026,Fronx,UV,Hybrid,AMT,Tamil Nadu,Tamil Nadu City 3,Domestic,171,1096509,128
+01-07-2026,Grand Vitara,UV,Petrol,Automatic,West Bengal,West Bengal City 2,Export,215,1908261,198
+12-07-2026,Ertiga,UV,Petrol,Manual,Karnataka,Karnataka City 3,Domestic,110,1037066,98
+05-07-2026, Swift  ,Compact,Petrol,Manual,Telangana,Telangana City 3,Domestic,129,796754,122
+28-07-2026,Alto,Mini,CNG,Manual,Maharashtra,Maharashtra City 1,Domestic,159,498113,142
+17-07-2026,S-Presso,Mini,CNG,AMT,Andhra Pradesh,Andhra Pradesh City 1,Domestic,158,482054,135
+09-07-2026,Ertiga,UV,CNG,AMT,Bihar,Bihar City 5,Domestic,130,1149691,90
+27-07-2026,Celerio,Compact,Petrol,Automatic,Andhra Pradesh,Andhra Pradesh City 5,Domestic,220,733597,191
+04-07-2026,Brezza,UV,Petrol,AMT,Delhi,Delhi City 1,Domestic,70,1155504,41
+09-07-2026,S-Presso,Mini,CNG,AMT,Punjab,Punjab City 4,Domestic,188,560720,169
+01-07-2026,Eeco,Van,Petrol,Automatic,Kerala,Kerala City 2,Export,118,623680,95
+25-07-2026,Wagon R,Compact,CNG,AMT,West Bengal,West Bengal City 4,Export,39,648335,24
+08-07-2026,Alto,Mini,petrol,Automatic,Kerala,Kerala City 5,Export,63,443324,59
+19-Jul-26,S-Presso,Mini,Petrol,Automatic,Madhya Pradesh,Madhya Pradesh City 4,Domestic,216,579538,129
+07-07-2026,Celerio,Compact,Petrol,AMT,Karnataka,Karnataka City 4,Domestic,12,,11
+23-07-2026,dzire,Compact,Petrol,Automatic,Delhi,Delhi City 4,Export,157,794336,90
+24-Jul-26,Eeco,Van,Petrol,Manual,Gujarat,Gujarat City 5,OEM,102,559650,95
+05-07-2026,S-Presso,Mini,CNG,Automatic,Madhya Pradesh,Madhya Pradesh City 4,Domestic,71,480629,47
+30-07-2026,Celerio,Compact,CNG,AMT,Andhra Pradesh,Andhra Pradesh City 2,Domestic,193,688784,165
+06-07-2026,Victoris,UV,Hybrid,AMT,Uttar Pradesh,Uttar Pradesh City 4,Domestic,118,1423838,111
+06-07-2026,Victoris,UV,Hybrid,Automatic,Andhra Pradesh,Andhra Pradesh City 5,Domestic,154,1054326,117
+04-Jul-26,Dzire,Compact,CNG,,Andhra Pradesh,Andhra Pradesh City 1,Domestic,44,675138,25
+11-Jul-26,victoris,UV,Petrol,Manual,Bihar,Bihar City 1,Export,77,1388869,66
+28-07-2026,Swift,Compact,Petrol,AMT,Telangana,Telangana City 4,Domestic,170,847278,158
+27-07-2026,Baleno,Compact,Petrol,AMT,West Bengal,West Bengal City 4,Domestic,73,901810,42
+22-07-2026,Victoris,UV,Petrol,AMT,Madhya Pradesh,Madhya Pradesh City 5,Domestic,79,1540963,57
+30-07-2026,Alto,Mini,petrol,Automatic,Delhi,Delhi City 4,Domestic,123,486422,85
+29-07-2026,Victoris,UV,Hybrid,AMT,Haryana,Haryana City 4,Export,120,1704112,104
+18-07-2026,Alto,Mini,Petrol,AMT,Uttar Pradesh,Uttar Pradesh City 1,Domestic,172,545074,126
+23-07-2026,Grand Vitara,UV,hybrid,AMT,Uttar Pradesh,Uttar Pradesh City 2,Domestic,8,1330070,4
+18-07-2026,Swift,Compact,Petrol,,Telangana,Telangana City 4,Domestic,126,760593,70
+27-07-2026,Dzire,Compact,Petrol,AMT,Maharashtra,Maharashtra City 1,Export,187,886381,176
+22-07-2026,Ertiga,UV,Petrol,Automatic,Maharashtra,Maharashtra City 5,Domestic,113,1172201,76
+06-Jul-26,Celerio,Compact,Petrol,AMT,Rajasthan,Rajasthan City 4,Domestic,134,617593,105
+27-07-2026,Grand Vitara,UV,Hybrid,AMT,Telangana,Telangana City 2,OEM,58,1426177,47
+07-07-2026,brezza,UV,Petrol,Manual,Rajasthan,Rajasthan City 3,Domestic,178,1006309,110
+12-Jul-26,eeco,Van,Petrol,Automatic,Gujarat,Gujarat City 2,Export,136,599205,111
+28-07-2026,S-Presso,Mini,Petrol,Automatic,Uttar Pradesh,Uttar Pradesh City 2,Export,35,503840,32
+04-07-2026,Swift,Compact,CNG,AMT,Telangana,Telangana City 1,Domestic,218,862112,161
+14-07-2026,Eeco,Van,petrol,,Telangana,Telangana City 4,Domestic,109,637711,79
+11-07-2026,Dzire,Compact,Petrol,AMT,Maharashtra,Maharashtra City 4,Domestic,174,739142,158
+28-07-2026,Celerio,Compact,CNG,AMT,Maharashtra,Maharashtra City 3,OEM,161,598498,133
+25-07-2026,Swift,Compact,CNG,Manual,Maharashtra,Maharashtra City 5,Domestic,104,840080,87
+29-07-2026,Eeco,Van,CNG,Manual,Bihar,Bihar City 3,Export,113,586227,67
+01-07-2026,Ertiga,UV,CNG,Manual,Telangana,Telangana City 5,OEM,187,1199118,152
+04-07-2026,Baleno,Compact,petrol,AMT,West Bengal,West Bengal City 1,Domestic,187,903185,164
+25-07-2026,Dzire,Compact,cng,Automatic,West Bengal,West Bengal City 4,Domestic,181,916660,152
+07-07-2026,Ertiga,UV,CNG,Manual,Punjab,Punjab City 2,OEM,99,932267,78
+01-07-2026,Eeco,Van,Petrol,Manual,Telangana,Telangana City 5,Domestic,17,637211,11
+19-07-2026,Ertiga,UV,cng,AMT,West Bengal,West Bengal City 5,Domestic,200,942625,150
+29-Jul-26,dzire,Compact,CNG,Automatic,Maharashtra,Maharashtra City 4,Export,76,706415,68
+18-07-2026, Fronx  ,UV,Petrol,Automatic,Madhya Pradesh,Madhya Pradesh City 2,Domestic,133,799570,79
+20-07-2026,Baleno,Compact,CNG,Automatic,Maharashtra,Maharashtra City 4,Domestic,92,909122,57
+03-Jul-26,wagon r,Compact,CNG,AMT,Kerala,Kerala City 2,Domestic,162,665273,100
+07-07-2026,Swift,Compact,petrol,AMT,Madhya Pradesh,Madhya Pradesh City 5,Domestic,34,,19
+04-07-2026,Swift,Compact,Petrol,AMT,Haryana,Haryana City 4,Domestic,26,871846,20
+02-07-2026,Alto,Mini,CNG,Automatic,Gujarat,Gujarat City 2,Domestic,20,546402,13
+19-07-2026,S-Presso,Mini,CNG,Manual,Delhi,Delhi City 1,Domestic,190,595877,180
+09-07-2026, Swift  ,Compact,CNG,AMT,Tamil Nadu,Tamil Nadu City 4,OEM,89,654161,81
+25-07-2026,Dzire,Compact,Petrol,Automatic,Kerala,Kerala City 1,OEM,12,893400,9
+12-07-2026,Swift,Compact,CNG,Manual,Tamil Nadu,Tamil Nadu City 1,Domestic,179,891539,149
+29-07-2026,Victoris,UV,Petrol,Manual,Tamil Nadu,Tamil Nadu City 4,Domestic,76,1646746,57
+09-Jul-26,Fronx,UV,Petrol,,Punjab,Punjab City 3,Domestic,178,804240,168
+28-07-2026,Baleno,Compact,CNG,AMT,Gujarat,Gujarat City 1,Export,,924625,102
+03-07-2026,fronx,UV,petrol,,Tamil Nadu,Tamil Nadu City 4,Domestic,68,986440,41
+08-07-2026,S-Presso,Mini,CNG,Manual,Rajasthan,Rajasthan City 1,Domestic,138,512060,127
+28-07-2026,Victoris,UV,petrol,Manual,Maharashtra,Maharashtra City 4,Domestic,82,1690405,65
+26-Jul-26,Grand Vitara,UV,Petrol,AMT,Delhi,Delhi City 4,Domestic,163,1779310,96
+26-07-2026,Swift,Compact,petrol,Automatic,Madhya Pradesh,Madhya Pradesh City 3,Domestic,112,776195,94
+19-07-2026,Brezza,UV,petrol,Manual,West Bengal,West Bengal City 3,OEM,92,1145202,64
+07-07-2026,Grand Vitara,UV,Petrol,Manual,Rajasthan,Rajasthan City 2,Export,126,1858531,104
+26-07-2026,Alto,Mini,CNG,Manual,Andhra Pradesh,Andhra Pradesh City 1,Export,62,480364,45
+12-Jul-26,Alto,Mini,PETROL,AMT,Maharashtra,Maharashtra City 5,Domestic,41,496172,29
+11-07-2026,Brezza,UV,Petrol,Manual,Tamil Nadu,Tamil Nadu City 1,Domestic,220,1114505,201
+12-07-2026,Grand Vitara,UV,Petrol,Automatic,Telangana,Telangana City 5,Domestic,187,1198553,111
+20-07-2026,Fronx,UV,Petrol,Automatic,Gujarat,Gujarat City 2,Domestic,68,835846,54
+03-07-2026,Wagon R,Compact,CNG,Automatic,Telangana,Telangana City 5,Domestic,132,716024,97
+21-07-2026,Alto,Mini,Petrol,Manual,Andhra Pradesh,Andhra Pradesh City 2,Domestic,65,523782,41
+12-07-2026,Swift,Compact,PETROL,AMT,Madhya Pradesh,Madhya Pradesh City 5,Domestic,114,768266,84
+10-07-2026,Brezza,UV,Petrol,AMT,Andhra Pradesh,Andhra Pradesh City 2,Domestic,35,914814,24
+05-07-2026,Eeco,Van,CNG,Manual,Telangana,Telangana City 3,Domestic,215,565433,185
+08-Jul-26,Swift,Compact,petrol,AMT,Tamil Nadu,Tamil Nadu City 5,OEM,206,794864,175
+04-07-2026,Swift,Compact,CNG,AMT,Telangana,Telangana City 1,Domestic,218,862112,161
+15-07-2026,Alto,Mini,CNG,Automatic,Karnataka,Karnataka City 1,OEM,98,482596,66
+06-07-2026,s-presso,Mini,Petrol,Automatic,Bihar,Bihar City 2,Domestic,35,599336,22
+16-07-2026,eeco,Van,Petrol,Manual,West Bengal,West Bengal City 1,Domestic,80,522631,54
+05-07-2026,Grand Vitara,UV,Hybrid,Manual,Bihar,Bihar City 1,Domestic,147,1515415,87
+08-07-2026,Dzire,Compact,CNG,AMT,Karnataka,Karnataka City 2,Domestic,26,909484,20
+19-07-2026,Ertiga,UV,cng,AMT,West Bengal,West Bengal City 5,Domestic,200,942625,150
+25-07-2026,brezza,UV,petrol,Automatic,Tamil Nadu,Tamil Nadu City 2,Domestic,203,994721,175
+23-07-2026,Ertiga,UV,CNG,Manual,Uttar Pradesh,Uttar Pradesh City 5,Domestic,208,985620,138
+06-07-2026,s-presso,Mini,Petrol,Automatic,Bihar,Bihar City 2,Domestic,35,599336,22
+09-07-2026, Dzire  ,Compact,Petrol,Automatic,West Bengal,West Bengal City 5,Domestic,56,757520,49
+30-07-2026,Grand Vitara,UV,Petrol,Automatic,Rajasthan,Rajasthan City 1,Domestic,215,1163659,187
